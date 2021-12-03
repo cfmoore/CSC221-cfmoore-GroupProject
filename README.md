@@ -9,4 +9,4 @@ __Project Description:__ Web Scraping project to gather data from the Median Inc
                         
 __Webscraped URL:__  Median Home Price of US States [URL: https://en.wikipedia.org/wiki/List_of_U.S._states_by_median_home_price]             
 
-__Collaborator:__ Benjamin Rogers (bsrogers2@my.waketech.edu)
+__Collaborator:__ Benjamin Rogers (bsrogers2@my.waketech.edu) ACCEPTED
